@@ -1,0 +1,268 @@
+.open-popup { 
+    font-family: 'Roboto',
+    sans-serif;
+}
+
+.popup-wrap {
+    font-family: 'Roboto', sans-serif;
+    display: none;
+    height: 100%;
+    left: 0;
+    line-height: 1.5;
+    margin: 0;
+    outline: 0 none;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+}
+.popup-outer {
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 450px;
+    padding: 30px 15px;
+    position: relative;
+    width: 100%;
+    z-index: 2;
+}
+
+#contact_form_popup .popup-outer{
+    max-width :900px;
+}
+
+.popup-box {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border: 1px solid hsla(0, 0%, 0%, 0.1);
+    border-radius: 4px;
+    box-shadow: 0 3px 9px rgba(0, 0%, 0%, 0.5);
+    background-clip: padding-box;
+    width: 100%;
+}
+
+.popup-box .popup-header {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 20px;
+    position: relative;
+}
+
+.popup-box .popup-header h3 {
+    padding-right: 15px;
+}
+
+.popup-close {
+    color: #bbb;
+    display: inline-block;
+    font-size: 24px;
+    position: absolute;
+    right: 15px;
+    text-decoration: none;
+    top: 10px;
+    transition: color 1s ease 0s;
+}
+
+.popup-close:hover {
+    color: #222;
+}
+
+.popup-scroll {
+    max-height: 400px;
+    overflow: auto;
+    position: relative;
+}
+
+.popup-box .popup-body {
+    padding: 20px;
+}
+
+.popup-box .popup-footer {
+    background-color: #f8f8f8;
+    background-color: hsla(0, 0%, 0%, 0.02);
+    border-top: 1px solid #ddd;
+    padding: 1em;
+}
+
+.popup-overlay {
+    background-color: #000;
+    background-color: hsla(0, 0%, 0%, 0.3);
+    filter:alpha(opacity=70);
+    height: 100%;
+    left: 0;
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.popup-box p {
+    margin-bottom: 25px;
+}
+
+.popup-box p:last-child {
+    margin-bottom: 0;
+}
+
+.extra-wrap {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+.extra-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+b, strong {
+        font-weight: 700;
+}
+
+.membership-plans .choose-palns .btn-to-select {
+    margin: 40px auto 10px auto;
+}
+
+.d-flex {
+    display: -ms-flexbox!important;
+    display: flex!important;
+}
+
+.flex-wrap {
+    -ms-flex-wrap: wrap!important;
+    flex-wrap: wrap!important;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.align-self-end {
+    align-self: flex-end!important;
+}
+
+.w-100 {
+    width: 100%!important;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.contact-us-se address p {
+    font-size: 20px;
+}
+
+.contact-us-se p{
+    margin: 0;
+    margin-bottom: 0;
+}
+
+.contact-us-se {
+    color: #fff;
+}
+
+.contact-us-se .popup-close {
+    top: 25px;
+    right: 25px;
+    color: #fff;
+    font-size: 25px;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.position-relative {
+    position: relative!important;
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.card-header:first-child {
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+}
+
+.mb-0, .my-0 {
+    margin-bottom: 0!important;
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+html, body{
+    font-weight:400;
+}
+
+#select_plan label.error {
+    position: relative;
+    bottom: 0;
+}
+
+.plan_price_igst,.plan_price_cgst,.plan_price_sgst,.plan_price,.conv_fee,.total_price,.amount,.amount_adjusted_value,.plan_subtotal_price{
+    float: right;
+    clear: both;
+}
+
+#select_plan .select2-container{
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    color: #495057;
+    width: 100%;
+    height: 45px;
+    padding: .375rem .75rem;
+}
+
+#select_plan input#gstin_udise{
+    height: 45px;
+}
+
+#select_plan  .select2-container--default .select2-selection--single .select2-selection__arrow{
+    right: 10px;
+}
+
+#select_plan label.col-md-4 {
+    line-height: 2.5;
+}
+
+.membership-plans  .plan-box.hide-plan{
+    display: none !important;
+}
+
+.membership-plans  .justify-content-between {
+    -ms-flex-pack: justify!important;
+    justify-content: space-around !important;
+}

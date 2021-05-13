@@ -1,0 +1,207 @@
+.nofication_module{margin: 0 50px;}
+.nofication_module h1{color:#273581; font-weight: bold; margin-bottom: 30px;}
+.config_block .block{    border: solid 1px #eee;
+  padding: 30px 30px 30px 30px;
+  background: #fff;
+  box-shadow: 3px 3px 15px #ccc;
+  margin:0 0 30px 0;}
+  .config_block .block h3{color: #000; font-weight: bold;     border-top: solid 1px #ccc;
+    padding-top: 30px;}
+  .config_block .block label{font-weight: 400; max-width: 97%; vertical-align: top;}
+
+  .config_block input[type=text], .config_block input[type=file], .config_block input[type=password] {border-color: #ccc;}
+  .config_block .form-group{margin-bottom: 15px;}
+
+
+.voyager .nofication_module input[type=file]{padding: 6px 0 0 6px;}
+
+
+.form-check-inline{display: inline-block;}
+.sms_scheduler .form-check-inline{margin-right: 12px;}
+
+.radio_section{margin-bottom:10px;}
+.radio_section label{background:#eee; padding:5px 25px; display: block; cursor: pointer; border: solid 1px #ccc; font-weight: bold; color: #000;}
+.radio_section input{width: 1px; height: 1px; position: absolute; left: 0; top: 0; opacity: 0;}
+.radio_section input:checked ~ label{background: #273581; color: #fff !important;}
+
+.notificaion_table table td, .notificaion_table table th{font-size: 14px; line-height:20px; font-weight: normal !important; color: #000; padding: 5px 10px !important; }
+
+.notificaion_table table th{background: #273581 !important; color: #fff !important; height: 40px;}
+.notificaion_table table  .btn {  padding: 2px 8px;}
+
+
+.weeks-check label{background:#eee; padding:5px 25px; display: block; cursor: pointer; border: solid 1px #ccc; font-weight: bold; color: #000;}
+.weeks-check input{width: 1px; height: 1px; position: absolute; left: 0; top: 0; opacity: 0;}
+.weeks-check input:checked ~ label{background: #273581; color: #fff !important;}
+
+.subblock p, .subblock select{display: inline-block; margin-right: 10px; width: auto;}
+.btn.btn-primary.margintop{margin-top: 28px;}
+.repeat_block .modal-title{font-size:24px; line-height:26px; color: #000; max-width: 90%;}
+.repeat_block button.close{    position: absolute;  right: 14px;   top: 10px;   font-size: 50px;   color: #000 !important;
+  opacity: 1;   font-weight: normal;}
+  .repeat_block .modal-content input, .repeat_block .modal-content select{border-color: #999;}
+  .repeat_block .form-group, .repeat_block label{color: #000;}
+
+  .form-checkes-input{    width: 90px;     margin: 0 3px 0 7px;}
+  .form-group02 select{max-width: 80%; display: inline-block;}
+  .form-group02 label{font-size: 18px;     color: #000;
+    margin-right: 15px;}
+.config_block .form-group03{margin-bottom: 0;}
+.groupevery .form-check-inline{    margin: 0 15px 0 0;}
+.repeat_block .week-text{    font-size: 10px;   color: #000;   font-weight: bold;   padding-left: 17px;   padding-top:5px;}
+.groupevery .weeks-check .form-check-inline{    margin: 0 5px 0 0;}
+
+.modiletitle{font-size: 30px; line-height: 36px; color: #000; border-top:solid 1px #ccc; padding: 10px 0 0 0;
+  margin: 0 0 15px 0; }
+.sec-date input[type=text]{width: 120px;}
+.config_block .form-group.afterdiv{margin-bottom: 0;}
+.afterdiv input[type=number]{width:70px;}
+.repeat_block .modal-body{padding-bottom: 0;}
+.config_block input[type=text], .config_block select,
+.config_block input[type=password], .config_block input[type=file]
+{border-color: #999;}
+.nofication_module p,
+.nofication_module label,
+.nofication_module input,
+.nofication_module select
+{font-weight: 400; color: #000;}
+
+.config_block .block h3.sech_title{ border-top:none; padding-top:0px; margin-bottom: 30px;     color: #273581;}
+
+  .config_block .report_search .form-group{ margin-right:10px;     display: inline-block; vertical-align: top;}
+  .config_block .report_search .form-group .btn-success{margin-top: 0px;     margin-left: 15px;}
+  .config_block .report_search .form-group label{    font-size: 14px;     font-weight: normal !important;}
+  .voyager .notificaion_table .table > tbody > tr > td{ color: #555 !important;}
+
+  .ftopleft{float: left;}
+  .ftopright{float: right; margin-top: 30px;}
+  .clear{clear: both;}
+  .text-center{text-align: center !important;}
+  .config_block  .collectionsetevent{background:url(../cal-pic.png) no-repeat center right; cursor: pointer;}
+  .setimepicker{background:url(../timw_pic.png) no-repeat center right; cursor: pointer; padding-left: 10px;}
+
+  .report_search .block_001 input{ width: 140px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 10px;}
+    .report_search .block_002 select{ width:180px;
+      display: inline-block;
+      vertical-align: top;
+      padding: 0 10px;}
+
+    .report_search label{padding:5px 15px 0 0px;       font-weight: bold !important;}
+    .templates-layout{text-align: left;}
+    #templates01 h5, #templates11 h5{    font-size: 30px;     line-height: 36px;     color: #000;     max-width: 90%;
+      text-align: left;      padding-top: 5px;}
+      #templates01 button.close, #templates11 button.close {   position: absolute;       right: 14px;       top: 10px;       font-size: 50px;         color: #000 !important;
+        opacity: 1;       font-weight: normal;     }
+
+      .templates-layout .form-check{margin-bottom:15px;}
+
+      .view_list{margin: 0; padding: 0; list-style: none;}
+      .view_list li.header span{ font-weight: bold;}
+      .view_list li{border-bottom: solid 1px #ccc; color: #000; padding: 0 0 5px 0; margin: 0 0 5px 0; position: relative;}
+      .view_list li span{display: inline-block;}
+      .view_list li span:first-child{width:40%; color:#000;}
+      .view_list li a.view{position: absolute; right:5px; top:-5px; padding: 0;
+        background: none !important;}
+        .view_list li a.view i{color: #000 !important;}
+
+
+.report_search{    text-align: center;  background: #f9f9f9;  padding: 30px 15px 5px 15px;  border: solid 1px #eeee;   margin: 0 0 15px 0;}
+
+.freq{margin-bottom: 10px;}
+.freq input{border: solid 1px #ccc; width: 80px; height: 35px;     position: relative;
+  top: 5px;}
+
+
+.block_disabled{position: relative; background: #eee; padding: 5px 30px 15px 30px; margin-bottom: -30px;}
+.block_disabled input, .block_disabled select{background:#eee !important ; border-color: #dedcdc  !important; color: #a5a0a0  !important;}
+.block_disabled h3{border: none !important; padding: 0 !important; color: #a5a0a0  !important;}
+.block_disabled::before{content: "";   width: 100%; height: 100%; position: absolute; left: 0; top: 0; z-index: 9;}
+.dropdown-menu{z-index: 9999;}
+
+.inline .singleline{display: inline-block; margin-right:15px;}
+.inline .btn{font-size: 30px; padding: 5px 10px !important; line-height: 26px; border-radius: 100% !important;}
+.disabled01{color: #c3bfbf  !important;}
+
+.subsubblock{display: inline-block; padding:15px 25px 10px 25px;  border: solid 1px #eee; vertical-align: top; min-height:100px; margin:15px 15px 30px 0;}
+.subsubblock h4{color: #000; font-weight: bold; font-size: 16px; line-height: 20px; padding: 0 0 10px 0; margin: 0;}
+.singleline button.multiselect.dropdown-toggle.btn.btn-default{border-radius: 0 !important;
+  font-size: 14px;
+  border: solid 1px #ccc;
+  background: none;     width: 250px;
+  text-align: left;}
+  .subsubblock h4 span{font-weight: normal; color: #555;}
+
+
+  li.multiselect-item.filter .btn.btn-default.multiselect-clear-filter{    padding: 1px 5px !important; margin: 0 !important; border-radius: 0 !important;}
+
+  .subsubblock #member_add, .singlelinebutoon{display: inline-block;}
+  #member_add p{width: 110px; margin: 0; padding: 0;}
+  #parent_div p{margin-right: 5px;}
+  #parent_div .singleline:last-child p{  margin-left: 2px;}
+  .subsubblock #parent_div #member_add{display: block;}
+  #notification td:last-child .btn{    width: 30px;     height: 25px;     line-height: 30px;}
+  #notification td:last-child .btn i{line-height: 21px;}
+  #notification td:last-child .btn.delete i{top:5px}
+
+  .config_block .block label.error{background: none; border: none;     left: 14px;     bottom: -18px; margin: 0 !important; padding: 0 !important; }
+  .form-control.Error{background: none !important ; margin: 0 !important;}
+  .config_block .form-group{position: relative;}
+  .multiselect-container.dropdown-menu{max-height: 300px; overflow: auto;}
+  .singleline .input-group-btn{border:none !important}
+  .singleline .input-group-btn   .glyphicon.glyphicon-remove-circle{    font-size: 15px;
+    padding: 8px 1px 7px 2px;}
+
+    .singleline .dropdown-menu>.active>a,
+    .singleline .dropdown-menu>.active>a:focus,
+    .singleline .dropdown-menu>.active>a:hover{    background-color: #eff3f7;}
+    #templates01 .modal-dialog{width: 50%;}
+    #templates01 .templates-layout{    max-height: 600px;   overflow: auto;}
+    .report_search .block_002 select#search_notification_type{width: 130px;}
+    .config_block .block .report_search label{vertical-align: middle;     position: relative;
+      top: 4px;}
+      .config_block .report_search .form-group:last-child  label{top:0px !important}
+      #notification td,      #notification th{text-align: center;}
+      .voyager   #notification > tbody > tr > td:last-child{text-align: center !important;}
+
+      .date_input{background:url(../cal-pic.png) no-repeat center right !important; cursor: pointer;}
+
+
+.view_details_section .modal-title{color: #273581; font-weight: bold; font-size: 24px; line-height: 28px; text-align: left;}
+.view_details_section  .close.close_view_exclusions_member{    position: absolute;   right: 15px;   top: 15px;   font-size: 30px;   color: #000;
+  opacity: 1;}
+  .top_block{list-style: none;  text-align: center; margin: 0; padding: 0;}
+  .top_block li{text-align: left; font-size:16px; line-height: 20px;}
+  .top_block li{margin-bottom: 15px;}
+  .top_block li span:first-child{font-weight: bold;  width: 160px;}
+  .top_block li span{display: inline-block;}
+  .view_details{text-align: left;}
+  .view_details .view_list li{border: none; margin: 0; padding: 0;}
+  .view_details .card-header h2 .btn.btn-link{width: 100%;   text-align: left;     background: #eee;     color: #273581;     font-weight: bold;
+    text-decoration: none; outline: none; position: relative; }
+    .voyager  .view_details .card .card-header{border: none;}
+    .view_details .card-header h2{margin: 0; padding: 0;}
+    .view_details .card-header h2 .btn.btn-link i{
+
+    position: absolute;
+    right: 5px;
+    top: 8px;
+
+  }
+  .voyager .report_search   .btn.btn-danger{position: relative;    top: -3px;     height: 33px;}
+
+.button_section .btn{width: 30px; display: inline-block; margin: 0 2px !important;}
+#member_add .singlelinebutoon .voyager-trash{position: relative;
+  top: 6px;
+  font-size: 12px;
+  width: 17px;
+  height: 25px;
+  display: inline-block;
+  text-align: center;
+  line-height: 54px;}
+  #member_add .singlelinebutoon{    left: 7px;     position: relative;}
+
+#member_add .select2-container{    border: solid 1px #ccc;}
+.subsubblock .multiselect-selected-text{white-space: normal; font-size: 12px;}

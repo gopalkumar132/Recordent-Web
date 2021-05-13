@@ -1,0 +1,32 @@
+<?php
+
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Database\Migrations\Migration;
+
+class UpadteClumnameIndividualAdminReportsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::table('individual_admin_reports', function (Blueprint $table) {
+            $table->renameColumn('updated_dt','updated_at');
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::table('individual_admin_reports', function (Blueprint $table) {
+            $table->renameColumn('updated_dt','updated_at');
+        });
+    }
+}

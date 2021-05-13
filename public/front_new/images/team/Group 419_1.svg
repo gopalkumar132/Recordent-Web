@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="821" height="1874" viewBox="0 0 821 1874">
+  <defs>
+    <filter id="Rectangle_224" x="0" y="0" width="821" height="1874" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_1747" data-name="Path 1747" d="M32,131.52H263.161a31.738,31.738,0,0,1,31.658,31.63h0a31.744,31.744,0,0,1-31.658,31.658H32A31.744,31.744,0,0,1,.34,163.15h0A31.738,31.738,0,0,1,32,131.52Z" transform="translate(-0.34 -131.52)" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1750" data-name="Path 1750" d="M17.777,194.39h697.11c9.573,0,17.447,4.9,17.447,10.868V376.143c0,5.992-7.873,10.868-17.447,10.868H17.777C8.2,387.012.33,382.135.33,376.143V205.258c0-5.964,7.873-10.868,17.447-10.868Z" transform="translate(-0.33 -194.39)" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_1753" data-name="Path 1753" d="M17.285,272.24H715.379c9.3,0,16.955,4.738,16.955,10.562V448.81c0,5.8-7.65,10.562-16.955,10.562H17.285C7.98,459.372.33,454.607.33,448.81V282.8c0-5.824,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -272.24)" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_1756" data-name="Path 1756" d="M17.285,348.11H715.379c9.3,0,16.955,4.765,16.955,10.562V524.68c0,5.824-7.65,10.562-16.955,10.562H17.285C7.98,535.242.33,530.5.33,524.68V358.672c0-5.8,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -348.11)" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_1759" data-name="Path 1759" d="M17.285,499.86H715.379c9.3,0,16.955,4.765,16.955,10.562V676.43c0,5.824-7.65,10.562-16.955,10.562H17.285C7.98,686.992.33,682.254.33,676.43V510.422c0-5.8,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -499.86)" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Path_1762" data-name="Path 1762" d="M17.285,423.99H715.379c9.3,0,16.955,4.738,16.955,10.562V600.56c0,5.8-7.65,10.562-16.955,10.562H17.285C7.98,611.122.33,606.357.33,600.56V434.552c0-5.824,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -423.99)" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path id="Path_1765" data-name="Path 1765" d="M17.285,575.73H715.379c9.3,0,16.955,4.766,16.955,10.59V752.328c0,5.8-7.65,10.562-16.955,10.562H17.285C7.98,762.89.33,758.124.33,752.328V586.32c0-5.824,7.65-10.59,16.955-10.59Z" transform="translate(-0.33 -575.73)" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <g id="Group_419" data-name="Group 419" transform="translate(-1153.004 -492)">
+    <rect id="Rectangle_211" data-name="Rectangle 211" width="218" height="46" transform="translate(1211.004 599)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 1153, 492)" filter="url(#Rectangle_224)">
+      <rect id="Rectangle_224-2" data-name="Rectangle 224" width="791" height="1844" transform="translate(15 12)" fill="#fcfcfc"/>
+    </g>
+    <g id="Group_395" data-name="Group 395" transform="translate(1201.027 535)">
+      <rect id="Rectangle_225" data-name="Rectangle 225" width="731.92" height="341.268" rx="3.95" transform="translate(0 0)" fill="#f9fafb" stroke="#ccc" stroke-miterlimit="2.613" stroke-width="0.66"/>
+      <text id="Powered_by" data-name="Powered by" transform="translate(602.447 33.253)" fill="gray" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Powered by</tspan></text>
+      <text id="Good_" data-name="Good*" transform="translate(328.64 228.671)" fill="#ffba00" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Good*</tspan></text>
+      <path id="Path_1742" data-name="Path 1742" d="M15.147,94.16H297v12.373H15.147a6.208,6.208,0,0,1-6.187-6.187h0A6.208,6.208,0,0,1,15.147,94.16Z" transform="translate(15.062 167.323)" fill="#ef4c47" fill-rule="evenodd"/>
+      <rect id="Rectangle_226" data-name="Rectangle 226" width="20.176" height="12.373" transform="translate(519.196 261.483)" fill="#ff741d"/>
+      <rect id="Rectangle_227" data-name="Rectangle 227" width="11.454" height="12.373" transform="translate(575.929 261.483)" fill="#ffba00"/>
+      <rect id="Rectangle_228" data-name="Rectangle 228" width="11.454" height="47.71" rx="0.09" transform="translate(557.346 245.431)" fill="#ffba00"/>
+      <path id="Path_1743" data-name="Path 1743" d="M136.11,94.16h47.459a6.208,6.208,0,0,1,6.187,6.187h0a6.208,6.208,0,0,1-6.187,6.187H136.11Z" transform="translate(518.254 167.323)" fill="#89c65a" fill-rule="evenodd"/>
+      <text id="_300" data-name="300" transform="translate(31.769 311.067)" fill="#1a1a1a" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">300</tspan></text>
+      <text id="_650" data-name="650" transform="translate(469.627 311.067)" fill="#1a1a1a" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">650</tspan></text>
+      <text id="_750" data-name="750" transform="translate(562.037 311.067)" fill="#1a1a1a" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">750</tspan></text>
+      <text id="_700" data-name="700" transform="translate(517.726 311.067)" fill="#1a1a1a" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">700</tspan></text>
+      <text id="_900" data-name="900" transform="translate(683.347 311.067)" fill="#1a1a1a" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">900</tspan></text>
+      <path id="Path_1744" data-name="Path 1744" d="M312.153,209.115a203.347,203.347,0,0,1-22.935,1.282,207.467,207.467,0,0,1-147.225-61,207.583,207.583,0,0,1-61-147.225L81.018.33h3.651V2.169A203.915,203.915,0,0,0,144.584,146.8a203.8,203.8,0,0,0,144.634,59.916,202.617,202.617,0,0,0,22.935-1.282Z" transform="translate(419.767 -0.33)" fill="rgba(255,215,106,0.56)"/>
+      <path id="Path_1745" data-name="Path 1745" d="M119.391.33h3.929c-2.034,5.239-3.874,10.534-5.462,15.912A204.633,204.633,0,0,0,268.038,274.019v3.762a208.265,208.265,0,0,1-153.691-262.6Q116.6,7.659,119.391.33Z" transform="translate(463.883 -0.33)" fill="rgba(255,215,106,0.56)" fill-rule="evenodd"/>
+      <text id="CURRENT_SCORE_" data-name="CURRENT SCORE " transform="translate(24.496 55.119)" fill="#373435" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">CURRENT SCORE </tspan></text>
+      <text id="_710_" data-name="710*" transform="translate(309.517 177.015)" fill="#1a1a1a" font-size="88" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">710*</tspan></text>
+      <g id="Layer_x0020_1" transform="translate(582.179 40.651)">
+        <g id="_2381711159072">
+          <path id="Path_1770" data-name="Path 1770" d="M49.365.57a1.9,1.9,0,0,1,1.868,1.922,1.881,1.881,0,1,1-3.763,0A1.9,1.9,0,0,1,49.338.57h.027Zm-.027.3a1.574,1.574,0,0,0-1.516,1.624,1.555,1.555,0,0,0,1.543,1.6,1.533,1.533,0,0,0,1.516-1.6A1.574,1.574,0,0,0,49.365.868h-.027ZM48.986,3.6h-.325V1.463a3.193,3.193,0,0,1,.6-.054,1.114,1.114,0,0,1,.65.162A.5.5,0,0,1,50.1,2a.531.531,0,0,1-.406.541h0c.19.027.325.217.352.514a2.833,2.833,0,0,0,.135.541h-.352a1.371,1.371,0,0,1-.135-.541.407.407,0,0,0-.46-.379h-.244V3.6Zm0-1.191h.244c.3,0,.514-.108.514-.352,0-.189-.135-.379-.514-.379a.6.6,0,0,0-.244.027Z" transform="translate(81.033 0.973)" fill="#9c1f2e"/>
+          <path id="Path_1771" data-name="Path 1771" d="M0,18.706,4.223,0h16.7L20.14,3.763H10.963l-.7,3.167h8.013l-.812,3.736H9.42l-.866,4.088h9.42l-.812,3.952Z" fill="#9c1f2e"/>
+          <path id="Path_1772" data-name="Path 1772" d="M8.143,6.939C9.849.333,14.4.388,19.811.5c3.709.081,9.475.108,8.446,5.928,0,0-.217,1.651-.6,3.438H21.814L33.562,23.912h-7.8l-5.089-6.091a14.218,14.218,0,0,1-5.008.568c-3.086-.108-8.8,0-8.554-5.36A33.63,33.63,0,0,1,8.143,6.939Zm7.174-.92a34.439,34.439,0,0,0-1.6,6.334c-.406,2.22,1.191,3.032,2.734,3.032a3.953,3.953,0,0,0,3.6-2.274,37.611,37.611,0,0,0,1.6-6.389c.568-3.546-2.734-3.032-2.734-3.032a3.688,3.688,0,0,0-3.6,2.328Z" transform="translate(12.132 0.803)" fill="#9c1f2e"/>
+          <path id="Path_1773" data-name="Path 1773" d="M17.46.77h6.795S22.089,10.353,21.6,12.735a2.083,2.083,0,0,0,2.166,1.976s2.707.406,3.276-1.814L29.75.77h6.93s-2.626,11.992-3.086,13.481c-.46,1.462-2.734,3.465-7.932,3.763a26.6,26.6,0,0,1-4.223-.244l-6.2-7.363S16.891,2.746,17.46.77Z" transform="translate(26.015 1.314)" fill="#9c1f2e"/>
+          <path id="Path_1774" data-name="Path 1774" d="M26.38.77h6.957L29.575,17.364H22.78Z" transform="translate(38.886 1.314)" fill="#9c1f2e"/>
+          <path id="Path_1775" data-name="Path 1775" d="M33.149,17.364H26.3L29.9.77H44.87l-.785,3.248H36.208L35.45,7.077H42.19l-.731,3.194H34.8Z" transform="translate(44.895 1.314)" fill="#9c1f2e"/>
+          <path id="Path_1776" data-name="Path 1776" d="M35.349,17.364H30.53L42.224.77h8.338l1.651,13.481L57.79,9.108,52.322.77h8.8l2.653,4.223L68.077.77h6.768L66.073,8.485l5.712,8.879h-8.5L60.416,12.41l-4.764,4.954H45.392l-.325-3.627H37.785l-2.436,3.627Zm4.791-7.228H44.5l-.541-5.468Z" transform="translate(52.116 1.314)" fill="#9c1f2e"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_1746" data-name="Path 1746" d="M32,131.52H263.161a31.738,31.738,0,0,1,31.658,31.63h0a31.744,31.744,0,0,1-31.658,31.658H32A31.744,31.744,0,0,1,.34,163.15h0A31.738,31.738,0,0,1,32,131.52Z" transform="translate(1200.688 765.545)" fill="#f9fafb" fill-rule="evenodd"/>
+    <g id="Group_397" data-name="Group 397" transform="translate(1201.027 897.065)" clip-path="url(#clip-path)">
+      <g id="Group_396" data-name="Group 396" transform="translate(0)">
+        <path id="_1" data-name="1" d="M32,131.52H150.909v63.288H32A31.744,31.744,0,0,1,.34,163.15h0A31.738,31.738,0,0,1,32,131.52Z" transform="translate(-0.34 -131.52)" fill="#363d72" stroke="#363d72" stroke-miterlimit="2.613" stroke-width="0.66" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <path id="Path_1748" data-name="Path 1748" d="M32,131.52H263.161a31.738,31.738,0,0,1,31.658,31.63h0a31.744,31.744,0,0,1-31.658,31.658H32A31.744,31.744,0,0,1,.34,163.15h0A31.738,31.738,0,0,1,32,131.52Z" transform="translate(1200.688 765.545)" fill="none" stroke="#363d72" stroke-miterlimit="2.613" stroke-width="0.66" fill-rule="evenodd"/>
+    <rect id="Rectangle_229" data-name="Rectangle 229" width="64.458" height="63.288" rx="2.51" transform="translate(1868.518 897.065)" fill="#363d72" stroke="#363d72" stroke-miterlimit="2.613" stroke-width="0.66"/>
+    <line id="Line_12" data-name="Line 12" x1="96.506" transform="translate(1712.057 928.433)" fill="none" stroke="#363d72" stroke-miterlimit="2.613" stroke-width="0.66"/>
+    <text id="Equifax" transform="translate(1293.829 935.627)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Equifax</tspan></text>
+    <text id="Recordent" transform="translate(1510.887 934.629)" fill="#1a1a1a" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Recordent</tspan></text>
+    <g id="Group_398" data-name="Group 398" transform="translate(1201 983.874)">
+      <rect id="Rectangle_230" data-name="Rectangle 230" width="732.004" height="63.288" rx="5.21" fill="#363d72" stroke="#363d72" stroke-miterlimit="2.613" stroke-width="0.66"/>
+      <text id="Report_Summary" data-name="Report Summary" transform="translate(269.607 38.649)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Report Summary</tspan></text>
+    </g>
+    <g id="Group_401" data-name="Group 401" transform="translate(1201 1070.315)">
+      <path id="Path_1749" data-name="Path 1749" d="M17.777,194.39h697.11c9.573,0,17.447,4.9,17.447,10.868V376.143c0,5.992-7.873,10.868-17.447,10.868H17.777C8.2,387.012.33,382.135.33,376.143V205.258c0-5.964,7.873-10.868,17.447-10.868Z" transform="translate(-0.33 -194.39)" fill="#f9fafb" fill-rule="evenodd"/>
+      <g id="Group_400" data-name="Group 400" clip-path="url(#clip-path-2)">
+        <g id="Group_399" data-name="Group 399" transform="translate(0 0)">
+          <path id="_1-2" data-name="1" d="M17.285,194.39H715.379c9.3,0,16.955,4.765,16.955,10.562V286.6c0-5.824-7.65-10.562-16.955-10.562H17.285C7.98,276.042.33,280.78.33,286.6V204.952c0-5.8,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -194.39)" fill="#efefef" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <path id="Path_1751" data-name="Path 1751" d="M17.777,194.39h697.11c9.573,0,17.447,4.9,17.447,10.868V376.143c0,5.992-7.873,10.868-17.447,10.868H17.777C8.2,387.012.33,382.135.33,376.143V205.258c0-5.964,7.873-10.868,17.447-10.868Z" transform="translate(-0.33 -194.39)" fill="none" stroke="#ccc" stroke-miterlimit="2.613" stroke-width="0.66" fill-rule="evenodd"/>
+      <text id="Profile" transform="translate(24.078 37.404)" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Profile</tspan></text>
+      <text id="Personal_Details" data-name="Personal Details" transform="translate(23.911 63.3)" fill="#666" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Personal Details</tspan></text>
+      <text id="Phone" transform="translate(23.465 121.596)" fill="#666" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Phone</tspan></text>
+      <text id="PAN" transform="translate(23.465 164.314)" fill="#666" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PAN</tspan></text>
+      <text id="_9_6" data-name="9********6" transform="translate(193.546 123.729)" fill="#363d72" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">9********6</tspan></text>
+      <text id="A_D" data-name="A**********D" transform="translate(202.855 168.206)" fill="#363d72" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">A**********D</tspan></text>
+    </g>
+    <g id="Group_404" data-name="Group 404" transform="translate(1201 1285.208)">
+      <path id="Path_1752" data-name="Path 1752" d="M17.285,272.24H715.379c9.3,0,16.955,4.738,16.955,10.562V448.81c0,5.8-7.65,10.562-16.955,10.562H17.285C7.98,459.372.33,454.607.33,448.81V282.8c0-5.824,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -272.24)" fill="#f9fafb" fill-rule="evenodd"/>
+      <g id="Group_403" data-name="Group 403" clip-path="url(#clip-path-3)">
+        <g id="Group_402" data-name="Group 402">
+          <path id="_1-3" data-name="1" d="M17.285,272.24H715.379c9.3,0,16.955,4.738,16.955,10.562v81.625c0-5.8-7.65-10.562-16.955-10.562H17.285C7.98,353.865.33,358.63.33,364.427V282.8c0-5.824,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -272.24)" fill="#efefef" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <path id="Path_1754" data-name="Path 1754" d="M17.285,272.24H715.379c9.3,0,16.955,4.738,16.955,10.562V448.81c0,5.8-7.65,10.562-16.955,10.562H17.285C7.98,459.372.33,454.607.33,448.81V282.8c0-5.824,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -272.24)" fill="none" stroke="#ccc" stroke-miterlimit="2.613" stroke-width="0.66" fill-rule="evenodd"/>
+      <text id="Credit_Age" data-name="Credit Age" transform="translate(24.078 37.404)" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Credit Age</tspan></text>
+      <text id="Age_of_Credit_Accounts" data-name="Age of Credit Accounts" transform="translate(23.911 63.3)" fill="#666" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Age of Credit Accounts</tspan></text>
+      <text id="Since_1st_account" data-name="Since 1st account" transform="translate(23.465 122.568)" fill="#666" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Since 1st account</tspan></text>
+      <text id="_18_years_7_months" data-name="18 years 7 months" transform="translate(23.465 153.993)" fill="#363d72" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">18 years 7 months</tspan></text>
+    </g>
+    <g id="Group_407" data-name="Group 407" transform="translate(1201 1494.618)">
+      <path id="Path_1755" data-name="Path 1755" d="M17.285,348.11H715.379c9.3,0,16.955,4.765,16.955,10.562V524.68c0,5.824-7.65,10.562-16.955,10.562H17.285C7.98,535.242.33,530.5.33,524.68V358.672c0-5.8,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -348.11)" fill="#f9fafb" fill-rule="evenodd"/>
+      <g id="Group_406" data-name="Group 406" clip-path="url(#clip-path-4)">
+        <g id="Group_405" data-name="Group 405">
+          <path id="_1-4" data-name="1" d="M17.285,348.11H715.379c9.3,0,16.955,4.765,16.955,10.562v81.652c0-5.824-7.65-10.562-16.955-10.562H17.285C7.98,429.762.33,434.5.33,440.324V358.672c0-5.8,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -348.11)" fill="#efefef" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <path id="Path_1757" data-name="Path 1757" d="M17.285,348.11H715.379c9.3,0,16.955,4.765,16.955,10.562V524.68c0,5.824-7.65,10.562-16.955,10.562H17.285C7.98,535.242.33,530.5.33,524.68V358.672c0-5.8,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -348.11)" fill="none" stroke="#ccc" stroke-miterlimit="2.613" stroke-width="0.66" fill-rule="evenodd"/>
+      <text id="Payment_History" data-name="Payment History" transform="translate(24.078 37.404)" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Payment History</tspan></text>
+      <text id="On-time_delayed_payments" data-name="On-time &amp; delayed payments" transform="translate(23.911 63.3)" fill="#666" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">On-time &amp; delayed payments</tspan></text>
+      <text id="Payments_on_time" data-name="Payments on time" transform="translate(23.465 121.596)" fill="#666" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Payments on time</tspan></text>
+      <text id="_512_558" data-name="512/558" transform="translate(23.465 153.993)" fill="#363d72" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">512/558</tspan></text>
+    </g>
+    <g id="Group_410" data-name="Group 410" transform="translate(1201 1911.078)">
+      <path id="Path_1758" data-name="Path 1758" d="M17.285,499.86H715.379c9.3,0,16.955,4.765,16.955,10.562V676.43c0,5.824-7.65,10.562-16.955,10.562H17.285C7.98,686.992.33,682.254.33,676.43V510.422c0-5.8,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -499.86)" fill="#f9fafb" fill-rule="evenodd"/>
+      <g id="Group_409" data-name="Group 409" clip-path="url(#clip-path-5)">
+        <g id="Group_408" data-name="Group 408" transform="translate(0 0)">
+          <path id="_1-5" data-name="1" d="M17.285,499.86H715.379c9.3,0,16.955,4.765,16.955,10.562v81.652c0-5.824-7.65-10.562-16.955-10.562H17.285C7.98,581.513.33,586.25.33,592.074V510.422c0-5.8,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -499.86)" fill="#efefef" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <path id="Path_1760" data-name="Path 1760" d="M17.285,499.86H715.379c9.3,0,16.955,4.765,16.955,10.562V676.43c0,5.824-7.65,10.562-16.955,10.562H17.285C7.98,686.992.33,682.254.33,676.43V510.422c0-5.8,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -499.86)" fill="none" stroke="#ccc" stroke-miterlimit="2.613" stroke-width="0.66" fill-rule="evenodd"/>
+      <text id="Limits" transform="translate(24.078 37.404)" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Limits</tspan></text>
+      <text id="Remaining_limit_of_open_credit_cards" data-name="Remaining limit of open credit cards" transform="translate(23.911 63.3)" fill="#666" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Remaining limit of open credit cards</tspan></text>
+      <text id="Credit_Available" data-name="Credit Available" transform="translate(23.465 121.596)" fill="#666" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Credit Available</tspan></text>
+      <text id="_87_" data-name="87%" transform="translate(23.465 153.993)" fill="#363d72" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">87%</tspan></text>
+    </g>
+    <g id="Group_413" data-name="Group 413" transform="translate(1201 1704.056)">
+      <path id="Path_1761" data-name="Path 1761" d="M17.285,423.99H715.379c9.3,0,16.955,4.738,16.955,10.562V600.56c0,5.8-7.65,10.562-16.955,10.562H17.285C7.98,611.122.33,606.357.33,600.56V434.552c0-5.824,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -423.99)" fill="#f9fafb" fill-rule="evenodd"/>
+      <g id="Group_412" data-name="Group 412" clip-path="url(#clip-path-6)">
+        <g id="Group_411" data-name="Group 411">
+          <path id="_1-6" data-name="1" d="M17.285,423.99H715.379c9.3,0,16.955,4.738,16.955,10.562v81.625c0-5.8-7.65-10.562-16.955-10.562H17.285C7.98,505.615.33,510.38.33,516.177V434.552c0-5.824,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -423.99)" fill="#efefef" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <path id="Path_1763" data-name="Path 1763" d="M17.285,423.99H715.379c9.3,0,16.955,4.738,16.955,10.562V600.56c0,5.8-7.65,10.562-16.955,10.562H17.285C7.98,611.122.33,606.357.33,600.56V434.552c0-5.824,7.65-10.562,16.955-10.562Z" transform="translate(-0.33 -423.99)" fill="none" stroke="#ccc" stroke-miterlimit="2.613" stroke-width="0.66" fill-rule="evenodd"/>
+      <text id="Accounts" transform="translate(24.078 37.404)" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Accounts</tspan></text>
+      <text id="Type_Status_of_Credit_Accounts" data-name="Type &amp; Status of Credit Accounts" transform="translate(23.911 63.3)" fill="#666" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Type &amp; Status of Credit Accounts</tspan></text>
+      <text id="Open" transform="translate(23.465 121.568)" fill="#666" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Open</tspan></text>
+      <text id="_6" data-name="6" transform="translate(23.465 151.993)" fill="#363d72" font-size="23" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">6</tspan></text>
+      <text id="Close" transform="translate(235.093 121.568)" fill="#666" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Close</tspan></text>
+      <text id="_17" data-name="17" transform="translate(230.414 153.993)" fill="#363d72" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">17</tspan></text>
+    </g>
+    <g id="Group_416" data-name="Group 416" transform="translate(1201 2122.51)">
+      <path id="Path_1764" data-name="Path 1764" d="M17.285,575.73H715.379c9.3,0,16.955,4.766,16.955,10.59V752.328c0,5.8-7.65,10.562-16.955,10.562H17.285C7.98,762.89.33,758.124.33,752.328V586.32c0-5.824,7.65-10.59,16.955-10.59Z" transform="translate(-0.33 -575.73)" fill="#f9fafb" fill-rule="evenodd"/>
+      <g id="Group_415" data-name="Group 415" clip-path="url(#clip-path-7)">
+        <g id="Group_414" data-name="Group 414">
+          <path id="_1-7" data-name="1" d="M17.285,575.73H715.379c9.3,0,16.955,4.766,16.955,10.59v81.625c0-5.8-7.65-10.562-16.955-10.562H17.285c-9.3,0-16.955,4.766-16.955,10.562V586.32c0-5.824,7.65-10.59,16.955-10.59Z" transform="translate(-0.33 -575.73)" fill="#efefef" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <path id="Path_1766" data-name="Path 1766" d="M17.285,575.73H715.379c9.3,0,16.955,4.766,16.955,10.59V752.328c0,5.8-7.65,10.562-16.955,10.562H17.285C7.98,762.89.33,758.124.33,752.328V586.32c0-5.824,7.65-10.59,16.955-10.59Z" transform="translate(-0.33 -575.73)" fill="none" stroke="#ccc" stroke-miterlimit="2.613" stroke-width="0.66" fill-rule="evenodd"/>
+      <text id="Enquiries" transform="translate(24.078 37.432)" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Enquiries</tspan></text>
+      <text id="Loan_Credit_Card_applications" data-name="Loan / Credit Card applications" transform="translate(23.911 63.328)" fill="#666" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Loan / Credit Card applications</tspan></text>
+      <text id="Last_30_days" data-name="Last 30 days" transform="translate(23.465 121.596)" fill="#666" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Last 30 days</tspan></text>
+      <text id="_0" data-name="0" transform="translate(23.465 152.021)" fill="#363d72" font-size="23" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <g id="Group_417" data-name="Group 417" transform="translate(1886.771 910.599)">
+      <g id="surface1">
+        <path id="Path_1767" data-name="Path 1767" d="M166.682,136.679a.9.9,0,0,0-.613-.279H152.08a4.74,4.74,0,0,0-4.71,4.71v26.447a4.716,4.716,0,0,0,4.71,4.682h18.978a4.716,4.716,0,0,0,4.71-4.682V146.544a.929.929,0,0,0-.251-.585Zm.251,2.787,5.908,6.214H169a2.058,2.058,0,0,1-2.062-2.062v-4.152Zm4.124,31.045H152.08a3,3,0,0,1-2.982-2.954V141.11a3,3,0,0,1,2.982-2.954h13.126v5.462a3.794,3.794,0,0,0,3.79,3.79h5.044v20.148A3,3,0,0,1,171.058,170.51ZM171.058,170.51Z" transform="translate(-147.37 -136.4)" fill="#fff"/>
+        <path id="Path_1768" data-name="Path 1768" d="M164.7,146.5h-14.24a.864.864,0,0,0,0,1.728H164.7a.864.864,0,1,0,0-1.728ZM164.7,146.5Z" transform="translate(-143.385 -118.354)" fill="#fff"/>
+        <path id="Path_1769" data-name="Path 1769" d="M155.642,153.778a.807.807,0,0,0,.641.279.79.79,0,0,0,.613-.279l5.072-5.434a.875.875,0,0,0-.028-1.226.85.85,0,0,0-1.226.056l-3.567,3.818v-9.447a.878.878,0,0,0-1.756,0v9.447l-3.567-3.818a.819.819,0,0,0-1.2-.056.852.852,0,0,0-.056,1.226l5.072,5.434ZM155.642,153.778Z" transform="translate(-142.071 -128.753)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

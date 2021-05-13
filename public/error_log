@@ -1,0 +1,147 @@
+[29-Aug-2019 07:48:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/public/index.php on line 52
+[29-Aug-2019 07:49:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/public/index.php on line 52
+[20-Nov-2019 06:28:02 America/Chicago] PHP Warning:  include(/home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/ClassLoader.php on line 444
+[20-Nov-2019 06:28:02 America/Chicago] PHP Warning:  include(/home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/ClassLoader.php on line 444
+[20-Nov-2019 06:28:02 America/Chicago] PHP Warning:  include(): Failed opening '/home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/ClassLoader.php on line 444
+[20-Nov-2019 06:28:02 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(787): Illuminate\Container\Contai in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-Nov-2019 06:28:10 America/Chicago] PHP Warning:  include(/home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/ClassLoader.php on line 444
+[20-Nov-2019 06:28:10 America/Chicago] PHP Warning:  include(/home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/ClassLoader.php on line 444
+[20-Nov-2019 06:28:10 America/Chicago] PHP Warning:  include(): Failed opening '/home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/composer/ClassLoader.php on line 444
+[20-Nov-2019 06:28:10 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(787): Illuminate\Container\Contai in /home1/nristartup/public_html/inhouse-sites/recordent.nristartupindia.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[10-Dec-2019 18:30:10 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:64
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(64): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 64, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 64
+[10-Dec-2019 18:30:50 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:64
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(64): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 64, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 64
+[10-Dec-2019 18:32:20 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:64
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(64): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 64, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 64
+[10-Dec-2019 18:34:36 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:65
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(65): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 65, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 65
+[10-Dec-2019 18:35:14 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:67
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(67): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 67, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 67
+[11-Dec-2019 12:03:12 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:66
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(66): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 66, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 66
+[11-Dec-2019 12:03:19 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:66
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(66): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 66, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 66
+[11-Dec-2019 12:04:41 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:66
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(66): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 66, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 66
+[11-Dec-2019 12:06:56 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:66
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(66): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 66, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 66
+[11-Dec-2019 12:07:01 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:66
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(66): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 66, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 66
+[11-Dec-2019 12:12:31 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:66
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(66): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 66, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 66
+[11-Dec-2019 12:13:21 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:66
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(66): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 66, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 66
+[11-Dec-2019 12:18:19 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:66
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(66): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 66, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 66
+[11-Dec-2019 12:24:07 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:66
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(66): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 66, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 66
+[11-Dec-2019 12:28:47 Asia/Calcutta] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/recorddj/public_html/app/Exceptions/Handler.php:66
+Stack trace:
+#0 /home/recorddj/public_html/app/Exceptions/Handler.php(66): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/recorddj/...', 66, Array)
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 66
+[11-Dec-2019 12:38:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method App\Exceptions\Handler::ValidationException() in /home/recorddj/public_html/app/Exceptions/Handler.php:64
+Stack trace:
+#0 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/recorddj/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/recorddj/public_html/app/Exceptions/Handler.php on line 64

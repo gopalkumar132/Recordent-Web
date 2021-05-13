@@ -1,0 +1,62 @@
+    :root {
+    --white: #fff;
+    --font-open-sans: 'Open Sans', sans-serif;
+    --font-rubik: 'Open Sans', 'Open Sans';
+}
+.voyager .table > thead > tr > th, .voyager .table > tbody > tr > td {
+    font-family: var(--font-rubik);
+}
+    body{background-color: #fff !important}
+    td{width:12.5% !important;}
+    td{height: 30px}
+    
+    
+    body{color:#000}
+p{margin:0;}
+.main-title{font-family:'Open Sans', sans-serif; color:#273581; font-size:20px; font-weight:500;}
+.w-100{width:100%;}
+.w-70{width:70%;}
+.w-60{width:60%;}
+.w-40{width:40%;}
+.w-30{width:30%;}
+.w-50{width:50%;}
+td,tr,p{color:#000; font-size:15px; font-weight:500; font-family: Open Sans,sans-serif;}
+.p-0{padding:0 !important;}
+.b-0{border:none !important;}
+
+.persona-det p{width:290px; color:#000; font-size:15px; font-weight:500;}
+.persona-det p ~ p{margin-left:10px;}
+.report-nu-date p{width:290px; color:#000; font-size:15px; font-weight:500;}
+.report-nu-date p ~ p{margin-left:10px;}
+.margin-h + .margin-h{margin-top:5px;}
+.bg-color,
+.bg-color:hover{background-color:#1e1f24 !important}
+.sub-title{font-family:'Open Sans', sans-serif; color:#fff; font-size:16px; font-weight:500;}
+.bor-right{border-right:1px solid #c8c8c8;}
+.summary-de td{width:calc(100% / 6);}
+.summary-de td + td,
+.overdue-status td + td,
+.account-de td + td,
+.account-de th + th{border-left:1px solid #c8c8c8;}
+.full-boder{border-width:0 1px 1px 1px; border-color:#c8c8c8; border-style:solid; margin-top:10px;}
+.boder-t-none{border-top:none !important;}
+.boder-t1{border-top:1px solid #c8c8c8 !important;}
+.b-td{height:30px; display:block;}
+.bor-left{border-left:1px solid #c8c8c8;}
+.overdue-status td{width:calc(100% / 8);}
+.account-de th{font-weight:600;}
+.account-de td,
+.account-de th{width:calc(100% / 7);}
+.f-w-6{font-weight:600 !important;}
+.f-w-5{font-weight:500 !important;}
+.dis-commen p ~ p{margin-left:10px;}
+.btn-to-action{background-color:#273581; border:1px solid #273581; color:#fff; border-radius:8px; padding:4px 35px; font-weight:700; display:inline-block; text-align:center; text-decoration:none !important;}
+.btn-to-action:hover,
+.btn-to-action:focus{background-color:#fff; color:#273581;}
+.two-btn-sath .btn-to-action + .btn-to-action{margin-left:25px;}
+.report-gen .table  tbody  tr  td,
+.report-gen .table  tbody  tr  th,
+.report-gen .table  tfoot  tr  td,
+.report-gen .table  tfoot  tr  th,
+.report-gen .table  thead  tr  td,
+.report-gen .table  thead  tr  th{border-top:1px solid #c8c8c8; padding:8px; white-space:nowrap;}

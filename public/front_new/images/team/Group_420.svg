@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="546" height="114" viewBox="0 0 546 114">
+  <g id="Group_420" data-name="Group 420" transform="translate(-155 -752)">
+    <rect id="Rectangle_231" data-name="Rectangle 231" width="546" height="114" rx="10" transform="translate(155 752)" fill="#273581"/>
+    <text id="Check_Now" data-name="Check Now" transform="translate(185 773)" fill="#fcfcfc" font-size="50" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="54">Check Now</tspan></text>
+    <path id="Icon_awesome-arrow-alt-circle-right" data-name="Icon awesome-arrow-alt-circle-right" d="M26.815.563A26.252,26.252,0,1,1,.563,26.815,26.248,26.248,0,0,1,26.815.563ZM14.535,31.472H26.815v7.505a1.271,1.271,0,0,0,2.17.9l12.1-12.163a1.259,1.259,0,0,0,0-1.789l-12.1-12.173a1.27,1.27,0,0,0-2.17.9v7.505H14.535a1.274,1.274,0,0,0-1.27,1.27V30.2A1.274,1.274,0,0,0,14.535,31.472Z" transform="translate(614.011 782.685)" fill="#fcfcfc"/>
+  </g>
+</svg>

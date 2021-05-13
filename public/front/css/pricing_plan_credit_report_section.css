@@ -1,0 +1,303 @@
+
+    .final-layer .container{
+        max-width: 900px !important;
+    }
+
+    .final-layer .text {
+        text-align: left;
+        margin-top: 0;
+        height: 100%;
+        display: flex;
+        flex-flow: row;
+        align-items: center;
+        white-space:nowrap;
+    }
+
+    .final-layer .flag_div {
+        padding: 0 !important;
+        max-width: 90%;
+        flex: 1 0 90%;
+        min-height: 200px;
+    }
+
+    .container.flag_div .row {
+        max-width: 100%;
+        margin: 0 auto;
+        justify-content: center;
+        height: 100%;
+    }
+
+    .container.flag_div .row [class*='col'] {
+        max-width: 30.5%;
+        flex: 1 0 30.5%;
+        text-align: center;
+    }
+
+    .final-layer .flag_div .container-fluid {
+        max-width: 100%;
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        padding: 50px 10px !important;
+    }
+
+    .container.flag_div .row [class*='col'] #layer3 {
+        width: 100%;
+        left: 0;
+        height: 300px;
+    }
+
+    .container.flag_div .row [class*='col'] #layer3 h4 {
+        font-size: 18px !important;
+        margin: 30px 0px;
+    }
+
+    .final-layer .flag_div .container-fluid br {
+        display: none;
+    }
+
+    .container.flag_div .row [class*='col']:first-child {
+        margin: 0;
+    }
+
+    .container.flag_div .row [class*='col']:nth-child(2) {
+        margin: 0px 10px;
+    }
+
+    .get-report{
+        color:#fff;
+        background-color:#273581; 
+        border:1px solid #273581; 
+        font-weight:700;
+        text-align:center; 
+        border-radius:12px; 
+        padding:12px 40px 15px; 
+        display:inline-block;
+        line-height:1;
+        font-size:18px;
+    }
+
+    .get-report:hover {
+        color: black;
+    }
+
+    .india_credit_report_text {
+        color:#4652b3;
+        font-family: 'Lato', sans-serif;
+        line-height: 30px;
+        font-size:20px;
+    }
+
+    .us_credit_report_text {
+        color:#ffffff;
+        font-family: 'Lato', sans-serif;
+        line-height: 30px;
+        font-size:20px;
+    }
+
+/* Extra small devices (portrait phones, less than 576px) */
+/*@media only screen and (max-width: 575.98px) { 
+    
+}*/
+
+/*Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 767.98px) {
+
+    .final-layer .container{
+        max-width: 100%;
+    }
+
+    .container.flag_div .row [class*='col'] {
+        max-width: 100%;
+        flex: 1 0 30.5%;
+        text-align: center;
+    }
+
+    .container.flag_div .row {
+        flex-direction: column;
+    }
+
+    .container.flag_div .row [class*='col']:nth-child(2) {
+        margin: 0px 0px;
+    }
+
+    .final-layer{
+        padding-bottom: 30px !important;
+    }
+
+    .flag_div{
+        padding-left:0px !important;
+    }
+
+    #layer3 {
+      position: relative;
+      z-index: 2;
+      height: 329px;
+      width: 250px;
+      left: 50px;
+    }
+
+    div.polaroid {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        text-align: center;
+        background-color: white;
+        padding:20px 0px;
+        margin: 15px 0px;
+    }
+
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+    .container-fluid .row [class*='col-sm'] {
+      max-width: 100%;
+      flex: 1 0 100%;
+    }
+
+    .final-layer .flag_div {
+        padding: 0 10px !important;
+    }
+
+    .final-layer .flag_div .text {
+        padding: 50px 0px;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .final-layer .flag_div .row [class*='col'] {
+        padding: 0;
+    }
+
+    .final-layer .flag_div .row [class*='col'] br {
+        display: none;
+    }
+
+    .final-layer .flag_div .row [class*='col'] #layer3 {
+        left: 0;
+    }
+
+    .final-layer .flag_div .row {
+        padding: 0;
+        margin: 0;
+        max-width: 100%;
+        flex: 1 0 100%;
+    }
+
+     div.polaroid {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        text-align: center;
+        background-color: white;
+        padding:20px 0px;
+        margin:20px 0px;
+    }
+
+    .final-layer .flag_div .container-fluid {
+        padding: 50px 20px !important;
+    }
+
+    #layer3 {
+      position: absolute;
+      z-index: 2;
+      height: 350px;
+      width: 340px;
+      top: -50px;
+    }
+
+    .final-layer{
+        padding-bottom: 100px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+    .final-layer .flag_div .row [class*='col'] {
+      max-width: 32%;
+      flex: 1 0 32%;
+    }
+
+    .final-layer .flag_div .row {
+        justify-content: space-between;
+        padding: 25px 0px;
+    }
+
+    .final-layer .flag_div .row [class*='col'] {
+      max-width: 32%;
+      flex: 1 0 32%;
+    }
+
+    #layer3 {
+      height: auto !important;
+      top: 0;
+      margin-top: 0;
+      width: 100%;
+      left: 10px;
+    }
+
+    #layer3 br {
+      display: none;
+    }
+
+    #layer3 .container-fluid h4 {
+      margin:10px 0px;
+    }
+
+    div.polaroid {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        text-align: center;
+        background-color: white;
+        padding:20px 0px;
+        margin:20px 0px;
+    }
+
+    #layer3 {
+      position: absolute;
+      z-index: 2;
+      height: 350px;
+      width: 340px;
+      top: -50px;
+    }
+
+    .final-layer{
+        padding-bottom: 100px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .polaroid .container-fluid {
+      max-width: 1140px;
+      margin: 0 auto;
+    }
+
+    .final-layer{
+        padding-bottom: 100px;
+    }
+  
+    .flag_div{
+        padding-left:63px !important;
+
+    }
+
+    div.container {
+        padding: 10px;
+    }
+
+    div.polaroid {
+        width: 250px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        text-align: center;
+        background-color: white;
+        height: 220px;
+    }
+
+    #layer3 {
+      position: absolute;
+      z-index: 2;
+      height: 350px;
+      width: 340px;
+      top: -50px;
+    }
+}
